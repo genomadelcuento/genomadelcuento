@@ -38,7 +38,7 @@ function hideImg(e){
 var clickCounter = 0;
 function countClicks(e){
 	clickCounter++;
-	if(clickCounter >= 4){
+	if(clickCounter >= 1000000){
 		hint.style.display = "none";
 		hint.removeEventListener("click", countClicks);
 		hint.removeEventListener("mousedown", showImg);
@@ -92,7 +92,7 @@ function countDownTimer(){
 
 	var minutes = parseInt( counter / 60 ) % 60;
 	var seconds = counter % 60;
-	timer = setTimeout(function(){ countDownTimer() }, 10000);
+	timer = setTimeout(function(){ countDownTimer() }, 1000);
 	counter--;
 	if(counter < 0 ){
 		clearTimeout(timer);

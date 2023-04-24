@@ -34,7 +34,7 @@ section {
 .canvas {
 	border: 10px solid rgba(255,255,255,0.2);
 	width: 100%;
-	max-width: 868px;
+	max-width: 1090px;
 	min-height: 579px;
 	position: relative;
 }
