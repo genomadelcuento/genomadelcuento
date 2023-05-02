@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-	font-size: 3rem;
+	font-size: 5rem;
 	color: #37344f;
 	text-align: center;
 	font-weight: normal;
@@ -17,6 +17,7 @@ h1 {
 }
 
 section {
+	background-image: url(/home/tony/Wallpapers/01.png);
 	width: 90%;
 	margin: 0 auto;
 	text-align: center;
@@ -24,6 +25,7 @@ section {
 	align-items: flex-start;
 	justify-content: center;
 	margin-bottom: 4rem;
+	border-radius: 50px;
 }
 
 .canvas,
@@ -81,8 +83,8 @@ section {
 	text-align: center;
 	position: absolute;
 	bottom: 0;
-	left: 0;
-	width: 112px;
+	right: 0;
+	width: 150px;
 	box-shadow: inset -5px 0 5px rgba(0,0,0,0.6);
 
 }
@@ -108,6 +110,7 @@ button {
 	text-align: center;
 	box-shadow: inset -5px 0 5px rgba(0,0,0,0.6);
 	text-align: left;
+	border-radius: 10px;
 }
 
 button:hover {
@@ -148,11 +151,11 @@ button:hover {
 }
 
 .lost:after {
-	content: "Sorry! Time's up!";
+	content: "TIEMPO AGOTADO!";
 }
 
 .won:after {
-	content: "Congratulations! You Won!";
+	content: "COMPLETADO!";
 }
 .hexagonito {
 	height:80px;
