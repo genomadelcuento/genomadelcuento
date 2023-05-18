@@ -160,12 +160,12 @@ function dropped(e) {
 	var ele = document.getElementById(eleId);
 	var dropzoneId = e.target.id.split("-")[1];
 
-	if (dropzoneId === eleId) {
+	// if (dropzoneId === eleId) {
 		e.target.appendChild(ele);
 		ele.style.animation = "imgAnimation 0.7s linear 1";
 		ele.style.webkitAnimation = "imgAnimation 0.7s linear 1"
 		dropCounter.push(ele);
-	}
+	// }
 
 	if (dropCounter.length === 33) {
 		for (var k = 0; k < dropCounter.length; k++) {

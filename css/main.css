@@ -342,46 +342,455 @@ button:hover {
 	bottom: 169px;
 }
 
-[id="img-38"]{
-	left: 293px;
-	top: 191px;
+
+
+[id="img-45"] {
+  /* left: 41px; */
+  /* top: 46px; */
+  left: 2px;
+  top: 39px;
 }
 
-[id="img-39"]{
-	left: 293px;
-	top: 94px;
+[id="img-44"] {
+  /* left: 41px; */
+  /* top: 142px; */
+  left: 2px;
+  top: 122px;
 }
 
-[id="img-40"]{
-	left: 209px;
-	top: 143px;
+[id="img-49"] {
+  /* left: 41px; */
+  /* top: 238px; */
+  left: 2px;
+  top: 203px;
 }
 
-[id="img-41"]{
-	left: 209px;
-	top: 46px;
+[id="img-52"] {
+  /* left: 41px; */
+  /* top: 286px; */
+  left: 0px;
+  top: 284px;
 }
 
-[id="img-42"]{
-	left: 125px;
-	top: 191px;
+[id="img-55"] {
+  /* left: 41px; */
+  /* top: 334px; */
+  left: 0px;
+  top: 367px;
 }
 
-[id="img-43"]{
-	left: 125px;
-	top: 94px;
+[id="img-58"] {
+  /* left: 41px; */
+  /* top: 382px; */
+  left: -1px;
+  top: 448px;
 }
 
-[id="img-44"]{
-	left: 41px;
-	top: 142px;
+[id="img-68"] {
+  /* left: 41px; */
+  /* top: 574px; */
+  left: 74px;
+  top: 0px;
 }
 
-[id="img-45"]{
-	left: 41px;
-	top: 46px;
+[id="img-100"] {
+  /* left: 125px; */
+  /* top: 1294px; */
+  left: 74px;
+  top: 82px;
 }
 
+[id="img-98"] {
+  /* left: 41px; */
+  /* top: 1294px; */
+  left: 73px;
+  top: 162px;
+}
+
+[id="img-97"] {
+  /* left: 125px; */
+  /* top: 1246px; */
+  left: 71px;
+  top: 326px;
+}
+
+[id="img-73"] {
+  /* left: 41px; */
+  /* top: 718px; */
+  left: 70px;
+  top: 409px;
+}
+
+[id="img-99"] {
+  /* left: 209px; */
+  /* top: 1198px; */
+  left: 73px;
+  top: 490px;
+}
+
+[id="img-95"] {
+  /* left: 125px; */
+  /* top: 1150px; */
+  left: 141px;
+  top: 40px;
+}
+
+[id="img-93"] {
+  /* left: 41px; */
+  /* top: 1150px; */
+  left: 357px;
+  top: 494px;
+}
+
+[id="img-96"] {
+  /* left: 209px; */
+  /* top: 1102px; */
+  left: 427px;
+  top: 451px;
+}
+
+[id="img-92"] {
+  /* left: 125px; */
+  /* top: 1102px; */
+  left: 500px;
+  top: 495px;
+}
+
+[id="img-94"] {
+  /* left: 209px; */
+  /* top: 1054px; */
+  left: 641px;
+  top: 495px;
+}
+
+[id="img-90"] {
+  /* left: 125px; */
+  /* top: 1054px; */
+  left: 785px;
+  top: 497px;
+}
+
+[id="img-88"] {
+  /* left: 41px; */
+  /* top: 1054px; */
+  left: 928px;
+  top: 497px;
+}
+
+[id="img-91"] {
+  /* left: 209px; */
+  /* top: 1006px; */
+  left: 572px;
+  top: 454px;
+}
+
+[id="img-87"] {
+  /* left: 125px; */
+  /* top: 1006px; */
+  left: 288px;
+  top: 450px;
+}
+
+[id="img-89"] {
+  /* left: 209px; */
+  /* top: 958px; */
+  left: 358px;
+  top: 410px;
+}
+
+[id="img-85"] {
+  /* left: 125px; */
+  /* top: 958px; */
+  left: 216px;
+  top: 2px;
+}
+
+[id="img-83"] {
+  /* left: 41px; */
+  /* top: 958px; */
+  left: 429px;
+  top: 369px;
+}
+
+[id="img-86"] {
+  /* left: 209px; */
+  /* top: 910px; */
+  left: 1000px;
+  top: 457px;
+}
+
+[id="img-82"] {
+  /* left: 125px; */
+  /* top: 910px; */
+  left: 855px;
+  top: 454px;
+}
+
+[id="img-84"] {
+  /* left: 209px; */
+  /* top: 862px; */
+  left: 498px;
+  top: 412px;
+}
+
+[id="img-80"] {
+  /* left: 125px; */
+  /* top: 814px; */
+  left: 714px;
+  top: 455px;
+}
+
+[id="img-78"] {
+  /* left: 41px; */
+  /* top: 814px; */
+  left: 642px;
+  top: 415px;
+}
+
+[id="img-81"] {
+  /* left: 209px; */
+  /* top: 766px; */
+  left: 502px;
+  top: 330px;
+}
+
+[id="img-77"] {
+  /* left: 125px; */
+  /* top: 766px; */
+  left: 289px;
+  top: 41px;
+}
+
+[id="img-79"] {
+  /* left: 209px; */
+  /* top: 718px; */
+  left: 1000px;
+  top: 374px;
+}
+
+[id="img-75"] {
+  /* left: 125px; */
+  /* top: 718px; */
+  left: 1003px;
+  top: 293px;
+}
+
+[id="img-76"] {
+  /* left: 209px; */
+  /* top: 670px; */
+  left: 1004px;
+  top: 210px;
+}
+
+[id="img-72"] {
+  /* left: 125px; */
+  /* top: 670px; */
+  left: 1001px;
+  top: 129px;
+}
+
+[id="img-74"] {
+  /* left: 209px; */
+  /* top: 622px; */
+  left: 1001px;
+  top: 49px;
+}
+
+[id="img-70"] {
+  /* left: 125px; */
+  /* top: 574px; */
+  left: 927px;
+  top: 415px;
+}
+
+[id="img-71"] {
+  /* left: 209px; */
+  /* top: 526px; */
+  left: 930px;
+  top: 333px;
+}
+
+[id="img-67"] {
+  /* left: 125px; */
+  /* top: 526px; */
+  left: 786px;
+  top: 332px;
+}
+
+[id="img-50"] {
+  /* left: 209px; */
+  /* top: 142px; */
+  left: 931px;
+  top: 168px;
+}
+
+[id="img-51"] {
+  /* left: 125px; */
+  /* top: 238px; */
+  left: 787px;
+  top: 169px;
+}
+
+[id="img-48"] {
+  /* left: 125px; */
+  /* top: 190px; */
+  left: 716px;
+  top: 375px;
+}
+
+[id="img-47"] {
+  /* left: 209px; */
+  /* top: 94px; */
+  left: 790px;
+  top: 88px;
+}
+
+[id="img-46"] {
+  /* left: 125px; */
+  /* top: 142px; */
+  left: 431px;
+  top: 127px;
+}
+
+[id="img-63"] {
+  /* left: 41px; */
+  /* top: 478px; */
+  left: 932px;
+  top: 7px;
+}
+
+[id="img-62"] {
+  /* left: 125px; */
+  /* top: 430px; */
+  left: 785px;
+  top: 414px;
+}
+
+[id="img-60"] {
+  /* left: 125px; */
+  /* top: 382px; */
+  left: 933px;
+  top: 87px;
+}
+
+[id="img-59"] {
+  /* left: 209px; */
+  /* top: 286px; */
+  left: 857px;
+  top: 46px;
+}
+
+[id="img-61"] {
+  /* left: 209px; */
+  /* top: 334px; */
+  left: 788px;
+  top: 6px;
+}
+
+[id="img-64"] {
+  /* left: 209px; */
+  /* top: 382px; */
+  left: 719px;
+  top: 128px;
+}
+
+[id="img-65"] {
+  /* left: 125px; */
+  /* top: 478px; */
+  left: 140px;
+  top: 452px;
+}
+
+[id="img-66"] {
+  /* left: 209px; */
+  /* top: 430px; */
+  left: 719px;
+  top: 47px;
+}
+
+[id="img-69"] {
+  /* left: 209px; */
+  /* top: 478px; */
+  left: 213px;
+  top: 489px;
+}
+
+[id="img-42"] {
+  /* left: 125px; */
+  /* top: 191px; */
+  left: 504px;
+  top: 169px;
+}
+
+[id="img-41"] {
+  /* left: 209px; */
+  /* top: 46px; */
+  left: 645px;
+  top: 5px;
+}
+
+[id="img-40"] {
+  /* left: 209px; */
+  /* top: 143px; */
+  left: 644px;
+  top: 86px;
+}
+
+[id="img-39"] {
+  /* left: 293px; */
+  /* top: 94px; */
+  left: 359px;
+  top: 84px;
+}
+
+[id="img-38"] {
+  /* left: 293px; */
+  /* top: 191px; */
+  left: 572px;
+  top: 46px;
+}
+
+[id="img-56"] {
+  /* left: 209px; */
+  /* top: 238px; */
+  left: 502px;
+  top: 86px;
+}
+
+[id="img-54"] {
+  /* left: 125px; */
+  /* top: 286px; */
+  left: 427px;
+  top: 45px;
+}
+
+[id="img-53"] {
+  /* left: 209px; */
+  /* top: 190px; */
+  left: 359px;
+  top: 4px;
+}
+
+[id="img-57"] {
+  /* left: 125px; */
+  /* top: 334px; */
+  left: 141px;
+  top: 366px;
+}
+
+[id="img-43"] {
+  /* left: 125px; */
+  /* top: 94px; */
+  left: 144px;
+  top: 120px;
+}
+
+[id="img-101"] {
+  /* left: 144px; */
+  /* top: 120px; */
+  left: 502px;
+  top: 6px;
+}
 
 
 /* Image Dropped animation */
